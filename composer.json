@@ -1,0 +1,26 @@
+{
+  "name": "carl-gq/ding-api-isv-yii2",
+  "description": "dingtalk api of isv for yii2",
+  "version": "0.1",
+  "type": "l",
+  "require": {
+    "php": "^5.6",
+    "nategood/httpful": "*"
+  },
+  "require-dev": {
+    "php": "^5.6",
+    "nategood/httpful": "*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Carl Guo",
+      "email": "guo14903@live.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "GuoGq\\DingApiIsvYii2\\": "src/"
+    }
+  }
+}
